@@ -1,0 +1,2 @@
+# tsstart
+typescript start
